@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session 1 Linq", "Session 1 Linq\Session 1 Linq.csproj", "{1534F42E-A848-409E-BDAD-9F37AF23B729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demoo", "Demoo\Demoo.csproj", "{3054928C-5D14-493E-9432-FC7BCAC71BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1534F42E-A848-409E-BDAD-9F37AF23B729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1534F42E-A848-409E-BDAD-9F37AF23B729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1534F42E-A848-409E-BDAD-9F37AF23B729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1534F42E-A848-409E-BDAD-9F37AF23B729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3054928C-5D14-493E-9432-FC7BCAC71BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3054928C-5D14-493E-9432-FC7BCAC71BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3054928C-5D14-493E-9432-FC7BCAC71BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3054928C-5D14-493E-9432-FC7BCAC71BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
